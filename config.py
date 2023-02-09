@@ -1,0 +1,6 @@
+TOKEN = '5825922554:AAFBHlh9fepwUwlvv_uGILJH1G3t7t8of0U' #бот телегы токен
+
+
+APIKEY = '5825922554'
+CITY = 'Zlatoust,RU'
+CITY_ID = '55.1712 59.6516'
